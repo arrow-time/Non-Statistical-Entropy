@@ -1,4 +1,4 @@
-# Non-Statistical-Entropy
+# Non-Statistical Entropy
 
 The concept of entropy, since its introduction by Clausius and through its subsequent development via Boltzmann's statistical interpretation and Shannon's information theory, has never fully escaped the framework of probability theory. This has rendered entropy a kind of "statistical summary" of a system's final state, incapable of revealing its specific evolution within microscopic dynamical processes. As early as 1901, Max Planck presciently called for finding an analytic expression for entropy, one that could be precisely calculated and tracked like a classical physical quantity.
 
